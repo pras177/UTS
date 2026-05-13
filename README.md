@@ -12,9 +12,9 @@
 
 > _(Ganti bagian ini dengan screenshot kamu dari Expo Go)_
 
-|      Tampilan Utama       |       Tambah Transaksi       |       Riwayat Penuh       |
-| :-----------------------: | :--------------------------: | :-----------------------: |
-| ![home](tampilanawal.jpg) | ![form](tambahtransaksi.jpg) | ![list](riwayatpenuh.jpg) |
+|             Tampilan Utama              |              Tambah Transaksi              |              Riwayat Penuh              |
+| :-------------------------------------: | :----------------------------------------: | :-------------------------------------: |
+| ![home](assets/images/tampilanawal.jpg) | ![form](assets/images/tambahtransaksi.jpg) | ![list](assets/images/riwayatpenuh.jpg) |
 
 ---
 
