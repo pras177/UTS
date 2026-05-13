@@ -74,7 +74,7 @@ Tema **Cyberpunk / Neon-Dark** dengan palet warna:
 ```bash
 # 1. Clone repo ini
 git clone https://github.com/pras177/UTS.git
-cd dompetku
+cd UTS
 
 # 2. Install dependencies
 npm install
