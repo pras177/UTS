@@ -12,9 +12,9 @@
 
 > _(Ganti bagian ini dengan screenshot kamu dari Expo Go)_
 
-|       Tampilan Utama       |       Tambah Transaksi        |       Riwayat Penuh        |
-| :------------------------: | :---------------------------: | :------------------------: |
-| ![home](tampilanawal.jpeg) | ![form](tambahtransaksi.jpeg) | ![list](riwayatpenuh.jpeg) |
+|      Tampilan Utama       |       Tambah Transaksi       |       Riwayat Penuh       |
+| :-----------------------: | :--------------------------: | :-----------------------: |
+| ![home](tampilanawal.jpg) | ![form](tambahtransaksi.jpg) | ![list](riwayatpenuh.jpg) |
 
 ---
 
@@ -119,5 +119,3 @@ dompetku/
 | **Mata Kuliah** | Pemrograman Mobile       |
 
 ---
-
-_Dibuat dengan ❤️ untuk UTS Pemrograman Mobile_
